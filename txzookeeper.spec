@@ -7,6 +7,8 @@ Group:          Application/
 License:        LGPL
 URL:            http://launchpad.net/txzookeeper
 Source0:        http://pypi.python.org/packages/source/t/txzookeeper/txzookeeper-%{version}.tar.gz
+
+BuildArch:      noarch
 BuildRoot:      %(mktemp -ud %{_tmppath}/%{name}-%{version}-%{release}-XXXXXX)
 
 BuildRequires:  python-devel
