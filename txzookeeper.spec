@@ -1,5 +1,5 @@
 Name:           python-txzookeeper
-Version:        0.9.5
+Version:        0.9.6
 Release:        1%{?dist}
 Summary:        Twisted api for Apache Zookeeper
 
