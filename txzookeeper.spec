@@ -42,5 +42,8 @@ rm -rf $RPM_BUILD_ROOT
 
 
 %changelog
+* Mon Jul 30 2012 Flavia Missi <flaviamissi@gmail.com> - 0.9.6
+- Updating txzookeeper package version
+
 * Thu May 31 2012 Francisco Souza <f@souza.cc> - 0.9.5
 - Initial packaging
